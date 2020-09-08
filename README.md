@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jackpoz/BotFarm)
+
 [<image src="https://ci.appveyor.com/api/projects/status/7tdp1nrwatndex5r/branch/master?svg=true">](https://ci.appveyor.com/project/jackpoz/botfarm)
 
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=BotFarm&metric=alert_status)](https://sonarcloud.io/dashboard?id=BotFarm)
